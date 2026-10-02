@@ -1,0 +1,7 @@
+export { clientes, proveedores } from './terceros'
+export { productos, almacenes } from './inventario'
+export { cotizaciones, ventas, facturas } from './ventas'
+export { solicitudesCompra, ordenesCompra, recepciones } from './compras'
+export { cuentasPorCobrar, cuentasPorPagar, cajas, bancos } from './finanzas'
+export { documentos } from './documentos'
+export { permisos, roles, usuarios, registrosAuditoria } from './seguridad'
